@@ -10,7 +10,6 @@
   "author": "hmm",
   "license": "NO",
   "dependencies": {
-    "express": "^4.13.3",
-    "moment": "^2.10.6"
+    "express": "^4.13.3"
   }
 }
