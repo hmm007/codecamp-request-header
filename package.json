@@ -1,7 +1,7 @@
 {
-  "name": "ts-micro",
+  "name": "request-header",
   "version": "1.0.0",
-  "description": "Timestamp Microservice",
+  "description": "Request Header Parser Microservice",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
