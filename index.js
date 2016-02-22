@@ -1,7 +1,6 @@
 
 var newserver = require('express');
 var app = newserver();
-var newmoment = require('moment');
 var fs = require('fs');
 var path = require('path');
 
